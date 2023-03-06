@@ -1,6 +1,5 @@
-# python_things
-Python PsychoPy https://www.psychopy.org/
+# Image presentation and data collection from a mouse click 
 
-Image presentation and data collection from a mouse click
+Using PsychoPy https://www.psychopy.org/
 
-20200122
+20230326
